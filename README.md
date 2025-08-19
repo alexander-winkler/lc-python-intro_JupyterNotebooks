@@ -1,0 +1,7 @@
+# Library Carpentry: Python Intro for Libraries (Executable Jupyter Notebooks)
+
+This repo is based on the Library Carpentry Python Intro for Libraries:
+
+> James Allen, Markus J. Ankenbrand, James Baker, Sean Barberie, Christian Calogero Barra, Trevor Bekolay, John Blischak, K. Azalee Bostroem, Andrew P Boughton, Geoffrey Boushey, Hugo Bowne-Anderson, Petrina Collingwood, Logan Cox, Matt Critchlow, Tim Dennis, Jonah Duckles, Shyam Dwaraknath, Jason Ellis, Rémi Emonet, … yremmits. (2024). LibraryCarpentry/lc-python-intro: Python Intro for Libraries 2024-06 Update (2024.06). Zenodo. https://doi.org/10.5281/zenodo.12582386
+
+
